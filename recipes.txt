@@ -1,4 +1,4 @@
-Welcome to Git Lerning. 
+Welcome to Git Learning. 
 This is my kitchen with many recipes
 
 1) Kheer
